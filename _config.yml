@@ -71,6 +71,8 @@ minimal_mistakes_skin: "default"
 breadcrumbs: true
 search: true
 
+logo: "/assets/images/reciples_logo.png"
+
 twitter:
   username: "recipl_"
 

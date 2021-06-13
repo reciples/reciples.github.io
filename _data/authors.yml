@@ -1,0 +1,14 @@
+Hanneli Tavante:
+  name        : "Hanneli Tavante"
+  bio         : "A person"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hannelita@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://hannelita.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/hannelita"

@@ -1,7 +1,15 @@
+Anonymous:
+  name        : "Anonymous"
+  bio         : "None"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:plreciples@gmail.com"
+
 Hanneli Tavante:
   name        : "Hanneli Tavante"
   bio         : "A person"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/profile/hanneli.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

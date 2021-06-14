@@ -57,6 +57,7 @@ url: https://reciples.github.io
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include: ['pages']
 
 plugins:
   - jekyll-paginate

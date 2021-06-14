@@ -8,7 +8,7 @@ Anonymous:
 
 Hanneli Tavante:
   name        : "Hanneli Tavante"
-  bio         : "A person"
+  bio         : "Grad student working with proofs, verification and other nice stuff. Cooks frequently."
   avatar      : "/assets/images/profile/hanneli.jpg"
   links:
     - label: "Email"

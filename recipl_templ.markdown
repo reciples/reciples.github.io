@@ -32,4 +32,9 @@ author: Your Name
 Feel free to add images
 
 
+![A nice picture of my food can be added with this syntax](/images/test1.jpg)
+Put your image on the images folder and use the syntax above. 
+
 {% endhighlight %}
+
+![A nice picture of my food](/images/test1.jpg)

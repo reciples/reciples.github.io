@@ -36,7 +36,9 @@ Once the chicken breasts gain some colour, turn them and add paprika. If you rea
 
 The onion will release water and it should make the chicken very humid. Good, we want that. After \~ 10 minutes in medium heat, it's time for high heat. You want to see the chicken trying to stick in the pan - when it happens, turn it gently, a few times. This process might take 5-6 minutes. Once you see a nice colour in the chicken, move to low heat and transfer the chicken to a tray that is oven safe. Transfer the onions too. Add thyme and parsley. Add chicken broth to the pan (or white wine) to retrieve the hyper-flavoury that were stick in the bottom. Remember, you should still keep the low heat. Scratch the bottom (with something that won't destroy your pan depending on its material). "Water" the chicken on the tray with this magic potion (this is called déglaçage and I have no clue how they call it in English). Insert the tray in the oven for about 20-25 minutes.
 
-After that, you should have your double-induction co-product ready!
+Serve it with the paprika side facing up.
+
+Done, you should have your double-induction co-product ready!  
 
 
 Enjoy!
@@ -46,6 +48,12 @@ Enjoy!
 Watch out for high heat; don't burn the chicken breasts!
 
 I like to cut every half in the 2 other halves (sounds like an inductive definition), because the marinade performs better if it can touch a larger area of the chicken.
+
+Golden tip: If you have an extra time, set the oven to 160C and leave the chicken breasts in the oven for 30-35 minutes. Open the oven and pour the juice over it a few times (with intervals of 10 minutes). The final result will be very soft.
+
+This recipe gets easy if you have those pans that can go in the oven. I don't have one of these :-(
+
+Serve it with mashed potatoes or white rice; cover these sides with the juice from the tray. 
 
 You can also freeze this recipe and re-heat it later in your week.
 

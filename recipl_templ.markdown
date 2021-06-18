@@ -31,6 +31,8 @@ header:
 
 ### Any other comments
 
+The header: image: is optional.
+
 Feel free to add images
 
 

@@ -9,4 +9,4 @@ Hi! Welcome to our reciPL space. Feel free to enjoy our reciPLes - food with pro
 
 Recipes are often bound to our culture and native language. For this reason, we accept contributions in any language, not only English. 
 
-To add your recipe, please follow out contributing guide. 
+To add your recipe, please follow our [contributing guide](/recipltempl/). 

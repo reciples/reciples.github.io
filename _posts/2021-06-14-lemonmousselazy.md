@@ -36,4 +36,4 @@ Condensed milk is not a popular element in some parts of the globe, but you can 
 
 ### Appendix, Types and Artifact
 
-The proofs are left as an exercise for the reader. We're not proving sound nor completeness here. We're too lazy for that.
+The proofs are left as an exercise for the reader. We're not proving soundness nor completeness here. We're too lazy for that.

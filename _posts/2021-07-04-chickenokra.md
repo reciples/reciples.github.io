@@ -7,7 +7,7 @@ categories: chicken low-effort
 author: Hanneli Tavante
 ---
 
-This reciPL becomes low-effort if you have a pressure cooker. This is not a common item in some countries in Europe or North America, but it drastically reduces the cooking time of food. IMHO it is better than the popular Airfryer (which I don't have) (but I do have a pressure cooker and it helps me a lot to mechanize my ~proofs~ dishes).
+This reciPL becomes low-effort if you have a pressure cooker. This is not a common item in some countries in Europe or North America, but it drastically reduces the cooking time of food. IMHO it is better than the popular Airfryer (which I don't have) (but I do have a pressure cooker and it helps me a lot to mechanize my ~~proofs~~ dishes).
 
 ### Ingredients
 

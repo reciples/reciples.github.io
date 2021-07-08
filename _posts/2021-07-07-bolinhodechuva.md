@@ -7,7 +7,7 @@ categories: snack low-effort
 author: Hanneli Tavante
 ---
 
-The literal translation of this low-effort dish is "Rain cake", but this is not a cake, it it does not rain (although, during the publication of this reciPL, there are severe thunderstorms going on in the east coast of North America). This is more like a sweet fried bun, for context.
+The literal translation of this low-effort dish is "Rain cake", but this is not a cake, it it does not rain (although, during the publication of this reciPL, there are severe thunderstorms going on in the east coast of North America). This is more like a sweet, deep fried bun, for context.
 
 ### Ingredients
 
@@ -48,3 +48,6 @@ A German friend gave a nickname to this reciPL - they called it "die Regensache"
 
 
 
+### Appendix, Types and Artifact
+
+Where are the proofs for this reciPL? All the proofs can be found on the papers you'll be writing in this busy week - that is why you probably chose to prepare this dish.

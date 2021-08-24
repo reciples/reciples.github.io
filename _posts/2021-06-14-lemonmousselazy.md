@@ -37,3 +37,21 @@ Condensed milk is not a popular element in some parts of the globe, but you can 
 ### Appendix, Types and Artifact
 
 The proofs are left as an exercise for the reader. We're not proving soundness nor completeness here. We're too lazy for that.
+
+### Reviewer 2's report
+
+*Score*: 2 (weak reject)
+
+*Confidence*: X (expert)
+
+*Comments to the chef*: This recipe describes a lemon mousse, based on XXX's [chase up reference later] but using condensed milk in addition to heavy cream.
+
+The novelty of this recipe is the use of condensed milk, but this seems to be something of a technical delta over existing work. It appears to more suitable for publication in a specialist workshop on mousse, and not a general recipes blog.
+
+*Detailed comments*: l21: The recipe can be followed using a whisk, not just a blender?
+
+l23: "feeling alone" is subjective.
+
+l25: "50ml" should be justified by experimental evidence.
+
+l35: Citation needed for Costco.

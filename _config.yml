@@ -78,6 +78,22 @@ twitter:
   username: "recipl_"
 
 
+author:
+  name     : "ReciPLes"
+  avatar   : "/assets/images/reciples_logo.png"
+  bio      : "reciPLes for PL"
+  links:
+    - label: "This website"
+      icon: "fas fa-fw fa-link"
+      url: "https://recipl.es"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/recipl_"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/reciples"
+    
+
 footer:
   links:
     - label: "Twitter"

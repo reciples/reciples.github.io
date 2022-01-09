@@ -64,6 +64,8 @@ While the fluffy artifact bakes, focus on the topping. In a pan, add the condens
 
 When the cake is fully baked, create multiple holes in it using a fork; `eapply` the topping. Let it cool down for about 30-40 minutes.
 
+Sprinkle some milk powder on top for decoration.
+
 Enjoy!
 
 

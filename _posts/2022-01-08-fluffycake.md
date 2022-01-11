@@ -25,9 +25,9 @@ Definition cake_body :  Prop :=
 * 2 Large Eggs
 * 300 g sugar
 * 111 g Milk Powder (Whole milk)
-* 385 g white flour
+* 350 g white flour
 * 250 ml water
-* 200 ml oil (olive oil \/ sunflower oil \/ other vegetable oil)
+* 190 ml oil (olive oil \/ sunflower oil \/ other vegetable oil)
 * 1 tbsp baking powder
 * Salt
 * (optional) 1 teaspoon vanilla extract
@@ -38,7 +38,7 @@ Definition cake_topping :  Prop :=
 
 {% endhighlight %}
 
-* 1 can condensed milk (approx 260 g); 2 if you like very sweet desserts
+* 1 can condensed milk (approx 200 ml); 2 if you like very sweet desserts
 * 1 tbsp butter (2 if you go for 2 condensed milk cans)
 * 3 tbsp Milk Powder (Whole milk) (4 if you go for 2 condensed milk cans)
 * 100 ml heavy cream (35%) (160 ml if you go for 2 condensed milk cans)

@@ -80,7 +80,12 @@ Enjoy!
 ### Appendix, Theorems and Artifact
 
 
-Exercise left to the reader.
+
+In an unfortunate occasion where I was forced to use linear logic, I noticed I had limited resources of flour. I made this cake with 325g of flour, and it also worked fine.
+
+As a side note, I prefer a bit less sugar, so I put 275g instead of 300g.
+
+A final tip: Use a rich spoon of baking powder.
 
 
 

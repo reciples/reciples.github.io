@@ -33,9 +33,9 @@ Definition dough :  Prop :=
 {% endhighlight %}
 
 
-* 270g diced carrot
+* 270g-285g diced carrot
 * 170 ml vegetable oil (i.e. light tasting olive oil, sunflower oil)
-* 280g sugar
+* 270g sugar
 * 2 large eggs
 * (optional) 1 extra egg white for extra cake fluffiness
 * 210g white flour
@@ -62,7 +62,7 @@ Preheat your oven to 180C.
 
 #### Dough
 
-Add the diced carrots, eggs, (optional) egg white and sugar to the blender.
+Add the diced carrots, oil, eggs, (optional) egg white and sugar to the blender.
 Mix it until you obtain a uniform manifold. That usually takes 2-3 min.
 
 _Warning_: If your blender is old, or if it's one of those small unverified nutribullets, do not add the sugar. Keep the sugar for the next step.
